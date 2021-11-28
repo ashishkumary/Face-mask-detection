@@ -1,0 +1,3 @@
+pip install sklearn
+pip install notebook
+jupyter notebook
