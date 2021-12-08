@@ -1,3 +1,5 @@
 pip install sklearn
 pip install notebook
 jupyter notebook
+first run Collection.ipynb
+finally run Detection.ipynb
