@@ -7,7 +7,6 @@ _<h3>The basic aim of the project is to detect the presence of a face mask on hu
 <img align="right" alt="GIF" src="https://github.com/ashishkumary/images/blob/656dce41e3b4785d4ad0714c884fbb669a618727/openCV.jpg" height="200" width="300px"/>
 <img align="left" alt="GIF" src="https://github.com/ashishkumary/images/blob/656dce41e3b4785d4ad0714c884fbb669a618727/ML.jpg" height="200" width="300px"/>
    
- ---
 <img align="left" alt="GIF" src="https://github.com/ashishkumary/images/blob/38f0337bc98d96fe68172aae659eb7da3e139ea9/0_z6ulJBvzBXYWLZwn.gif" height="200" width="300px"/>
 
  <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/76411035/188302040-077d1bae-84b8-4528-8af9-1df5979650b0.png" height="200" width="300px"/>
