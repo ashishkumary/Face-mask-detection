@@ -1,4 +1,10 @@
-#Face-mask-detection:The basic aim of the project is to detect the presence of a face mask on human faces on livestreaming video as well as on images.
+<h1>Face-mask-detection</h1>
+<h2>The basic aim of the project is to detect the presence of a face mask on human faces on livestreaming video as well as on images.</h2>
+
+<h3>Technologies/Algorithm used<h3>
+
+![0_z6ulJBvzBXYWLZwn](https://user-images.githubusercontent.com/76411035/189512122-0ab58113-f494-47d9-abf9-f45e7c1db4a2.gif)
+
 
 ![image](https://user-images.githubusercontent.com/76411035/145235117-9fb7efb1-a775-46d1-96f2-0e6c582099e5.png) 
 ![Haar-like-features-on-the-face-area-a-Haar-on-eyes-detection-b-Haar-on-nose](https://user-images.githubusercontent.com/76411035/188302040-077d1bae-84b8-4528-8af9-1df5979650b0.png)
