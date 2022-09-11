@@ -1,10 +1,54 @@
-<h1>Face-mask-detection</h1>
+<b><h1>Face-mask-detection</h1><b>
 <h2>The basic aim of the project is to detect the presence of a face mask on human faces on livestreaming video as well as on images.</h2>
 
 <h3>Technologies/Algorithm used<h3>
+   
+<div vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+     class="item">
+    <img width: 100px;
+    height: 100px;
+    src="https://github.com/ashishkumary/images/blob/38f0337bc98d96fe68172aae659eb7da3e139ea9/0_z6ulJBvzBXYWLZwn.gif"/>
+    <span   display: block; class="caption">Viola-Jones Algorithm</span>
+</div>
+  
+<div vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px; 
+     class="item">
+    <img width: 100px;
+    height: 100px; src="https://github.com/ashishkumary/images/blob/656dce41e3b4785d4ad0714c884fbb669a618727/ML.jpg"/>
+    <span   display: block; class="caption">Machine Learning</span>
+</div>
+  
+<div vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+     class="item">
+    <img 
+    width: 100px;
+    height: 100px; src="https://github.com/ashishkumary/images/blob/656dce41e3b4785d4ad0714c884fbb669a618727/Python.jpg"/>
+    <span   display: block; class="caption">Python</span>
+</div>
+  
+  
+<div vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+     class="item">
+    <img width: 100px;
+    height: 100px; src="https://github.com/ashishkumary/images/blob/656dce41e3b4785d4ad0714c884fbb669a618727/openCV.jpg"/>
+    <span   display: block; class="caption">OpenCV</span>
+</div>
 
-![0_z6ulJBvzBXYWLZwn](https://user-images.githubusercontent.com/76411035/189512122-0ab58113-f494-47d9-abf9-f45e7c1db4a2.gif)
-
+  
+  
+<img align="right" alt="GIF" src="https://github.com/ashishkumary/images/blob/38f0337bc98d96fe68172aae659eb7da3e139ea9/0_z6ulJBvzBXYWLZwn.gif" width="360px"/>
 
 ![image](https://user-images.githubusercontent.com/76411035/145235117-9fb7efb1-a775-46d1-96f2-0e6c582099e5.png) 
 ![Haar-like-features-on-the-face-area-a-Haar-on-eyes-detection-b-Haar-on-nose](https://user-images.githubusercontent.com/76411035/188302040-077d1bae-84b8-4528-8af9-1df5979650b0.png)
